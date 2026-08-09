@@ -1,0 +1,5 @@
+# Pretty URLs for legal pages
+/privacy            /privacy.html            200
+/terms              /terms.html              200
+/risk-disclosure    /risk-disclosure.html    200
+/refund             /refund.html             200
